@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CommunityProject/static/css/main.96f2c21b.css",
+    "main.js": "/CommunityProject/static/js/main.53536321.js",
+    "static/js/787.b69e9fae.chunk.js": "/CommunityProject/static/js/787.b69e9fae.chunk.js",
+    "static/media/profile-pic.JPG": "/CommunityProject/static/media/profile-pic.e2582f8fb0891bd4bdc7.JPG",
+    "index.html": "/CommunityProject/index.html",
+    "main.96f2c21b.css.map": "/CommunityProject/static/css/main.96f2c21b.css.map",
+    "main.53536321.js.map": "/CommunityProject/static/js/main.53536321.js.map",
+    "787.b69e9fae.chunk.js.map": "/CommunityProject/static/js/787.b69e9fae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96f2c21b.css",
+    "static/js/main.53536321.js"
+  ]
+}
