@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  
+  
+}
+#bak{
+  text-shadow: 2px 2px #B8FFF9;
+}
+.cardBac{
+  text-shadow: 2px 2px black;
 }
 body{
   background-color: aquamarine;
